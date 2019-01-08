@@ -23,11 +23,6 @@
 * foobar2000 `免费` `Windows`
   * http://www.foobar2000.org/
 
-## 图床
-
-* SM.MS `免费`
-  * https://sm.ms/
-
 # 开发相关
 
 ## 字体图标
@@ -35,6 +30,7 @@
 * Font Awesome `免费` `Pro` 
   * https://fontawesome.com/
 * Material design icons `免费`
+  * https://material.io/tools/icons/?style=baseline
   * http://google.github.io/material-design-icons/
   * https://github.com/google/material-design-icons
 * Iconfont
@@ -44,3 +40,17 @@
 
 * GLYPHICONS
   * https://www.glyphicons.com/
+
+## 类库
+
+* isee15/Lunar-Solar-Calendar-Converter - 公历(阳历)农历(阴历)转换
+  * https://github.com/isee15/Lunar-Solar-Calendar-Converter
+* googollee/eviltransform - WGS-84 <=> GCJ-02 地球坐标系与火星坐标系间的相互转换
+  * https://github.com/googollee/eviltransform
+
+# 一些有用的网站
+
+* SM.MS - 一个免费的图床网站，无需登录直接使用
+  * https://sm.ms/
+* DevDocs - 在线查看技术开发文档
+  * https://devdocs.io
