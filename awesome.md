@@ -23,7 +23,22 @@
 * foobar2000 `免费` `Windows`
   * http://www.foobar2000.org/
 
+## Markdown 编辑器
+
+* Mou `免费` `macOS`
+  * http://25.io/mou/
+* MacDown `免费` `macOS`
+  * https://macdown.uranusjr.com/
+* Typora `免费` `macOS` `Windows` `Linux`
+  * https://typora.io/  
+
 # 开发相关
+
+## 文本编辑器
+
+* MacVim `免费` `macOS`
+  * https://macvim-dev.github.io/macvim/
+  * https://github.com/macvim-dev/macvim
 
 ## 字体图标
 
@@ -47,6 +62,13 @@
   * https://github.com/isee15/Lunar-Solar-Calendar-Converter
 * googollee/eviltransform - WGS-84 <=> GCJ-02 地球坐标系与火星坐标系间的相互转换
   * https://github.com/googollee/eviltransform
+
+## 富文本编辑器
+
+* CodeMirror
+  * https://codemirror.net/
+* Summernote
+  * https://summernote.org/
 
 # 一些有用的网站
 
