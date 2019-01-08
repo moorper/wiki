@@ -1,3 +1,16 @@
+文中常用的标签：
+
+* `免费`
+* `Pro`
+* `开源软件`
+* `macOS`
+* `Windows`
+* `Linux`
+* `iOS`
+* `Android`
+* `iPhone`
+* `iPad`
+
 [TOC]
 
 # 日常使用软件 
