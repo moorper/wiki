@@ -1,26 +1,39 @@
-maven 代码库：
+---
+id: 1548923818
+title: 05-MySQL+Druid 插件安装
+date: 2019-01-31 16:36:58
+---
 
-https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
-https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter
 
-配置参考：
+## 参考资料
 
-https://github.com/alibaba/druid/tree/master/druid-spring-boot-starter
+MySQL Maven：https://mvnrepository.com/artifact/mysql/mysql-connector-java
+
+Druid Maven：https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter
+
+Druid 配置参考：https://github.com/alibaba/druid/tree/master/druid-spring-boot-starter
+
+## `pom.xml`
 
 ```xml
-       <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>druid-spring-boot-starter</artifactId>
-            <version>1.1.10</version>
-        </dependency>
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.14</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter -->
+<dependency>
+    <groupId>com.alibaba</groupId>
+    <artifactId>druid-spring-boot-starter</artifactId>
+    <version>1.1.13</version>
+</dependency>
 ```
 
+## 配置
 
+`application.proterties`
 
 ```ini
 ### MySQL 连接信息
