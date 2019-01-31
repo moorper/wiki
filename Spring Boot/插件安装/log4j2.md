@@ -1,7 +1,7 @@
 ## 安装
 需要屏蔽 Spring Boot 自带的 Log 工具
 pom.xml
-```java
+```xml
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -12,6 +12,7 @@ pom.xml
                 </exclusion>
             </exclusions>
         </dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-log4j2 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-log4j2</artifactId>
